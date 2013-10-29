@@ -21,10 +21,10 @@ Objective of SP7 is to design and develop an infrastructure that allows coordina
 
 [SP7-Ritmare GitHub Repository](https://github.com/SP7-Ritmare)
 =============================
-Codes that are contained in this repositories concerns softwares developed for the implementation of Interoperable Data Infrastructure for RITMARE.
-All softwares in this repositories are cover by GPL License.
-All are free softwares: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
-All softwares are distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
-See the GNU General Public License for more details.
-You should have received a copy of the GNU General Public License along with GeoNode.
-If not, see <http://www.gnu.org/licenses/>.
+<p>Codes that are contained in this repositories concerns softwares developed for the implementation of Interoperable Data Infrastructure for RITMARE.
+<p>All softwares in this repositories are cover by GPL License.
+<p>All are free softwares: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+<p>All softwares are distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+<p>See the GNU General Public License for more details.
+<p>You should have received a copy of the GNU General Public License along with GeoNode.
+<p>If not, see <http://www.gnu.org/licenses/>.
